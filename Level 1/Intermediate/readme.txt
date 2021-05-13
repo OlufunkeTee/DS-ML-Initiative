@@ -1,1 +1,1 @@
-
+This contains a Loan Prediction ML Model. The models used were Logistic regression, Decision tree classifier, Randomforest classifier, Xgboost, SVM and GaussianNB. It was a classification supervised machine learning.
